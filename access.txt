@@ -1,0 +1,20 @@
+
+homepageurl: https://as1.v.je/index.php
+adminuser: bipin12@gmail.com
+adminpassword: abcd1234
+
+nonadminuser: bipin@gmail.com
+nonadminpassword: bipin23
+
+
+
+
+System  - MySQL	
+
+Server	- mysql
+
+Username - bidhan
+	
+Password - assignmentphp
+	
+Database - assignment1	
